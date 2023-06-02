@@ -1,0 +1,22 @@
+--- 
+name: Mydict                 
+version: "1.00" 
+sort: by_weight 
+use_preset_vocabulary: false  
+import_tables:                 
+  - dicts\\sougou_net
+  - dicts\\sougou_std
+  - dicts\\zhwiki
+  - dicts\\pinyin 
+  - dicts\\chat
+  - dicts\\xiandaihanyu
+  - dicts\\chengyusuyu
+  - dicts\\popular
+  - dicts\\computer
+  - dicts\\kaifa
+  - dicts\\place
+  - dicts\\website
+  - dicts\\net
+  - dicts\\changyongci
+...
+
